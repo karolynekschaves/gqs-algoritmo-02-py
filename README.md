@@ -47,11 +47,11 @@ print(x.pryear(*ano*))
 
 
 <div align="center">
-  <p><b>📫 Feito por :</b></p>
+  <p><b>📝 Feito por :</b></p>
         Karolyne S.
 <table>
   <tr>
     <td align="center">
-        <img width="140" height="150" alt="1785484606380" src="https://github.com/user-attachments/assets/f2ebc76f-aa51-44f3-934c-632ac5cdece3"<br>
+        <img width="140" height="160" alt="1785484606380" src="https://github.com/user-attachments/assets/f2ebc76f-aa51-44f3-934c-632ac5cdece3"<br>
         <sub>
     </td>
