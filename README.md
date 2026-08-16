@@ -3,8 +3,18 @@
 
 # Sobre o Código <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/3711094d-4f6c-4f2c-8a62-6eb2abe9b61f" />
 
-O código que esta localizado no arquivo.py se trata de um simples comando para imprimir os 12 meses do calendário de 2026 no terminal
+O código que esta localizado no arquivo.py se trata de um simples comando para imprimir os 12 meses do calendário de 2026 no terminal . Foi usando a seguinte estrutura
 
+```
+import calendar
+#importamos o framework/biblioteca calendar
+
+x = calendar.TextCalendar()
+#Criamos um objeto com a classe TexteCalendar que ja forma calendarios formados
+
+print(x.pryear(*ano*))
+#imprime o ano adicionado entre parêntese 
+```
 # Como Executar <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/48a2484c-2866-4d71-bb4f-ad6c8e7f13a3" />
 
  Para executar podemos usar dois meio
@@ -36,5 +46,12 @@ O código que esta localizado no arquivo.py se trata de um simples comando para 
 <img width="350" height="250" alt="image" src="https://github.com/user-attachments/assets/49579a10-058e-48c7-b8f4-e01e87d6f266" />
 
 
-
-gqs-algoritmo-02-py
+<div align="center">
+  <p><b>📫 Feito por :</b></p>
+        Karolyne S.
+<table>
+  <tr>
+    <td align="center">
+        <img width="140" height="150" alt="1785484606380" src="https://github.com/user-attachments/assets/f2ebc76f-aa51-44f3-934c-632ac5cdece3"<br>
+        <sub>
+    </td>
