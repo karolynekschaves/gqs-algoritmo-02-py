@@ -1,4 +1,4 @@
-# Meu primeiro PYTHON <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/9b14b58c-c96d-4bff-9a92-600f9d77320c" />
+# Meu primeiro PYTHON (CALENDARIO) <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/9b14b58c-c96d-4bff-9a92-600f9d77320c" />
 
 
 # Sobre o Código <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/3711094d-4f6c-4f2c-8a62-6eb2abe9b61f" />
